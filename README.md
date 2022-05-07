@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a Trading Bot
-- 🌱 I’m currently learning GUI development in Java
-- 🎮 I’m currently playing Forza Horizon 5
 - 💬 Ask me about C, Python, MQL5
 - 📫 How to reach me: jelsonrodrigues25@gmail.com
 - 😄 Pronouns: he/his/him
