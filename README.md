@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jelsonrodrigues25@gmail.com
 - ⚡ Fun fact: there are more real numbers between 0 and 1, than all natural numbers together
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JelsonRodrigues&langs_count=6&layout=compact)](https://github.com/JelsonRodrigues/github-readme-stats)
