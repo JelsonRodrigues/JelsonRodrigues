@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a Trading Bot
-- 💬 Ask me about C, Python, MQL5
+- 💬 Ask me about C, Python, MQL5, Rust
 - 📫 How to reach me: jelsonrodrigues25@gmail.com
 - ⚡ Fun fact: there are more real numbers between 0 and 1, than all natural numbers together
 
